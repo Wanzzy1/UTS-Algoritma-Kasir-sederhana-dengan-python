@@ -6,7 +6,7 @@ Program ini dibuat sebagai tugas **Ujian Tengah Semester (UTS)** mata kuliah **A
 
 ## Flowchart Program Kasir
 
-![Flowchart Kasir](assets/FlowChart/Kasir.drawio.png)
+![Flowchart Kasir](assets/FlowChart/IniKasir.drawio.png)
 
 
 Aplikasi ini merupakan sistem **kasir sederhana** untuk toko kelontong milik **Taro Sakamoto**, mantan pembunuh bayaran legendaris yang kini menjalankan usaha kecil. Program dibuat menggunakan bahasa pemrograman **Python**.
